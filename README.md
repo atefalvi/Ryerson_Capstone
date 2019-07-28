@@ -1,4 +1,4 @@
-# Ryerson_Capstone
+# Ryerson Capstone
 Capstone Project for Big Data Course in Ryerson. 
 The Project is about income Immigrants make in different immigration category. 
 
